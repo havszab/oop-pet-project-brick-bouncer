@@ -1,0 +1,16 @@
+Planned user stories left:
+
+    Database
+    High scores with names
+    Responsibility
+    Power-ups:
+        * Bomb & fragment
+        * Direction randomizer
+        * Weapons
+        * Collision ignore effect
+    Shop for weapons
+    Score bonus appearance
+    Logical level order
+    Level fill, and level lock/unlock
+    Spawning bricks
+
